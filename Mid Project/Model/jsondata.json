@@ -1,1 +1,46 @@
-
+[
+    {
+        "Name": "Safwan Bin Rahman",
+        "Gender": "male",
+        "Email": "sbr@gmail.com",
+        "Phone": "0123456789",
+        "Dob": "2000-02-11",
+        "Address": "abc",
+        "JoinDate": "123",
+        "Password": "abc",
+        "file": "..\/Uploads\/sbr@gmail.com.jpg"
+    },
+    {
+        "Name": "Safwan Bin Rahman",
+        "Gender": "male",
+        "Email": "sbr@gmail.com",
+        "Phone": "0123456789",
+        "Dob": "2000-02-11",
+        "Address": "abc",
+        "JoinDate": "123",
+        "Password": "abc",
+        "file": "..\/Uploads\/sbr@gmail.com.jpg"
+    },
+    {
+        "Name": "ABC",
+        "Gender": "male",
+        "Email": "abc@gmail.com",
+        "Phone": "01234",
+        "Dob": "2000-02-02",
+        "Address": "abc",
+        "JoinDate": "abc",
+        "Password": "abc",
+        "file": "..\/Uploads\/abc@gmail.com.jpg"
+    },
+    {
+        "Name": "Bika",
+        "Gender": "female",
+        "Email": "bika@gmail.com",
+        "Phone": "0123",
+        "Dob": "2023-03-01",
+        "Address": "abc",
+        "JoinDate": "2023-03-01",
+        "Password": "bika",
+        "file": "..\/Uploads\/bika@gmail.com.jpg"
+    }
+]
